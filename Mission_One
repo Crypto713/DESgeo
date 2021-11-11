@@ -21,11 +21,14 @@ Sidenotes:
       Building
       
 E2E-EMS Requirements:
-Basic - username, password
-Intermediate - username, password, multi-factor authentication
-Advanced - Username, password 1, multi-factor authentication, password 2, device authentication, password 3, biometrics
+Level 1 - username, password
+Level 2 - username, password, multi-factor authentication
+Level 3 - Username, password 1, multi-factor authentication, password 2, device authentication, password 3, biometrics
 -------
 
-I2P
+I2P:
 https://www.wizcase.com/blog/understanding-the-invisible-internet-project/
+
+Mix & Match (.Onion):
+https://www.expressvpn.com/blog/best-onion-sites-on-dark-web/
    
