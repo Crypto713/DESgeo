@@ -1,7 +1,7 @@
 
 
 Mission Brief:
-  Your Mission should you choose to accept it...  Set up an End to End Encrypted Messaging System for personal use. Priority is on Security & Ease of Use.
+  Your Mission should you choose to accept it...  Set up an End to End Encrypted Messaging System (E2E-EMS for personal/team use (Admin optional). Priority is on Security & Ease of Use.
   
 Sidenotes:
   - Accelerated VPN (Budget Y/N) 
@@ -16,8 +16,11 @@ Sidenotes:
   - Tor
       Yes
       N0
+  - Team
+      Existing
+      Building
       
-Requirements:
+E2E-EMS Requirements:
 Basic - username, password
 Intermediate - username, password, multi-factor authentication
 Advanced - Username, password 1, multi-factor authentication, password 2, device authentication, password 3, biometrics
