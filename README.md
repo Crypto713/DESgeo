@@ -11,4 +11,7 @@ Updates:
 03.04.2022 - Ever heard this "We see no value in your project and the liklihood of failure is high."  
 Constructive Criticism is always welcome. However, your Community and I will have to Agree to Disagree.
 
+---
 02.21.2022 - DESgeo has recently been active in the Metaverse.  
+
+---
