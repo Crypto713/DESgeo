@@ -8,11 +8,12 @@ Updates:
 
 12.04.2022 - Game on!  DESgeo's origins were within the metaphysical, metaversal, multiversal layers of experience.  
 
-How far into the rabbit hole have you come?  
-
 His statement went something like this, 
 "Play until the end of the game and when it's over then tell me if you believe you were really playing a game."
 
+How far into the rabbit hole have you come?  
+
+---
 
 11.14.2022 - Having fun yet?
 
